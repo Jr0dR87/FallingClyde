@@ -203,13 +203,19 @@ ig.module(
                 }
 
                 this.gameOverBackdrop.draw();
-                this.font.draw('Programming: Jarrod Rizor', ig.system.width / 2 - 320, 30, ig.Font.ALIGN.LEFT);
-				this.font.draw('Art: Steph Frank', ig.system.width / 2 - 320, 80, ig.Font.ALIGN.LEFT);
+
+                this.font.draw('Press Enter to Restart Game!', ig.system.width / 2 - 365, 30, ig.Font.ALIGN.LEFT);
+
+                this.font.draw('Programming: Jarrod Rizor', ig.system.width / 2 - 320, 120, ig.Font.ALIGN.LEFT);
+				this.font.draw('Art: Steph Frank', ig.system.width / 2 - 320, 160, ig.Font.ALIGN.LEFT);
 				
                 this.font.draw("Score: "+ ig.score.ceil().toString(), ig.system.width/2 - 50, 287, ig.Font.ALIGN.LEFT);
                 this.font.draw("High Score: "+ ig.highScore.ceil().toString(), ig.system.width/2 - 50, 373, ig.Font.ALIGN.LEFT );
                 this.font.draw("Jewels Collected: "+ ig.jewel.toString() , ig.system.width/2 - 50, 464, ig.Font.ALIGN.LEFT );
                 this.font.draw("Total Jewels: "+ ig.totaljewels.toString(), ig.system.width/2 - 50, 540, ig.Font.ALIGN.LEFT );
+
+                this.font.draw('Press Enter to Restart Game!', ig.system.width / 2 - 365, 700, ig.Font.ALIGN.LEFT);
+
                 //reset the game
                 if( ig.input.pressed('ok') ) {
                     ig.score = 0;
