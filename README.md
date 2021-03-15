@@ -24,15 +24,20 @@ If you wish to download ImpactJS and the demo examples, visit this link
 ===============
 
 Installation and Running
-(You need a web server to excute code)
+(You need a web server to excute code. I use PHP to run a simple web server)
 
 ===============
 
 Clone Repo using Git
+
 In CWD
+
 git clone https://github.com/JarrodRizor/FallingClyde.git
+
 cd FallingClyde
-php -S localhost:8888 
+
+php -S localhost:8888 (this will create a web server to run PHP scripts and run the game)
+
 open browser and naviagte to http://localhost:8888 
 
 Enjoy!
