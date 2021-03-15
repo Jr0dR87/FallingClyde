@@ -23,7 +23,7 @@ If you wish to download ImpactJS and the demo examples, visit this link
 
 ========================================================================================
 
-#Installation and Running
+# Installation and Running
 (You need a web server to excute code. I use PHP to run a simple web server)
 
 ## Clone Repo using Git
