@@ -23,7 +23,7 @@ If you wish to download ImpactJS and the Level Editor Weltmeister and the demo e
 ========================================================================================
 
 # Installation and Running
-(You need a web server to excute code.)
+(You need a web server to run the game)
 
 git clone https://github.com/JarrodRizor/FallingClyde.git
 
