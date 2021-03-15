@@ -2,7 +2,6 @@ Falling Clyde
 ============
 
 By Jarrod Rizor
-@JarrodR87
 
 ============
 
