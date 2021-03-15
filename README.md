@@ -21,6 +21,20 @@ HTML5 Games with ImpactJS
 If you wish to download ImpactJS and the demo examples, visit this link
 [Imapact JS](https://impactjs.com/download)
 
+===============
+
+Installation and Running
+(You need a web server to excute code)
+
+===============
+
+Clone Repo using Git
+In CWD
+git clone https://github.com/JarrodRizor/FallingClyde.git
+cd FallingClyde
+php -S localhost:8888 
+open browser and naviagte to http://localhost:8888 
+
 Enjoy!
 Message me if you have any questions.
 [JarrodR87](https://twitter.com/JarrodR87)
