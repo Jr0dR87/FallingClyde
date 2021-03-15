@@ -21,12 +21,10 @@ HTML5 Games with ImpactJS
 If you wish to download ImpactJS and the demo examples, visit this link
 [Imapact JS](https://impactjs.com/download)
 
-===============
+========================================================================================
 
-Installation and Running
+#Installation and Running
 (You need a web server to excute code. I use PHP to run a simple web server)
-
-===============
 
 ## Clone Repo using Git
 
