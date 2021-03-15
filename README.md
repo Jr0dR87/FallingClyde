@@ -18,8 +18,7 @@ and I didn't want to include it in my git repo. The engine has become free to do
 If you are interested in learning more about ImpactJS, Jesse Freeman wrote a great book called 
 [HTML5 Games with ImpactJS](https://www.amazon.com/Building-HTML5-Games-ImpactJS-Introduction-ebook/dp/B007AU3D70).
 
-If you wish to download ImpactJS and the Level Editor Weltmeister and the demo examples, visit this link
-[Imapact JS](https://impactjs.com/download)
+If you wish to download ImpactJS and the Level Editor Weltmeister and the demo examples, visit [Imapact JS](https://impactjs.com/download)
 
 ========================================================================================
 
