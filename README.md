@@ -28,15 +28,13 @@ Installation and Running
 
 ===============
 
-Clone Repo using Git
-
-In CWD
+## Clone Repo using Git
 
 git clone https://github.com/JarrodRizor/FallingClyde.git
 
 cd FallingClyde
 
-php -S localhost:8888 (this will create a web server to run PHP scripts and run the game)
+php -S localhost:8888 (this will create a web server to run the game)
 
 open browser and naviagte to http://localhost:8888 
 
