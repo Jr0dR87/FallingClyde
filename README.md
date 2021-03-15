@@ -27,6 +27,8 @@ If you wish to download ImpactJS and the Level Editor Weltmeister and the demo e
 
 git clone https://github.com/JarrodRizor/FallingClyde.git
 
+You can use either PHP or Python to run the web server.
+
 cd FallingClyde
 
 ### PHP 
