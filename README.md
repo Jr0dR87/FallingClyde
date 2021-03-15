@@ -6,7 +6,7 @@ By Jarrod Rizor
 
 ============
 
-file:///home/jarrod/Desktop/FallingClyde/media/screen-bg.png![image](https://user-images.githubusercontent.com/1922801/111210615-d4209280-85a3-11eb-832e-5a377ea376bc.png)
+![image](https://user-images.githubusercontent.com/1922801/111210615-d4209280-85a3-11eb-832e-5a377ea376bc.png)
 
 Falling Clyde is a game I developed in 2014 and has gone through massive changes.
 
