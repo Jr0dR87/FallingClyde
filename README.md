@@ -16,9 +16,9 @@ The game is built off an HTML5 Game Engine called [ImpactJS](https://github.com/
 and I didn't want to include it in any repo. The engine has become free to download along with other examples.
 
 If you are interested in learning more about ImpactJS, Jesse Freeman wrote a great book called 
-HTML5 Games with ImpactJS
+HTML5 Games with ImpactJS.
 
-If you wish to download ImpactJS and the demo examples, visit this link
+If you wish to download ImpactJS and the Level Editor Weltmeister and the demo examples, visit this link
 [Imapact JS](https://impactjs.com/download)
 
 ========================================================================================
