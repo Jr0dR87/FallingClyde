@@ -13,7 +13,7 @@ I'm currently happy with its current build and I'm sharing my source code with t
 in how the game works or if someone wants to use the code to build their own game. 
 
 The game is built off an HTML5 Game Engine called [ImpactJS](https://github.com/phoboslab/impact). Back in 2014, the engine cost $99 dollars 
-and I didn't want to include it in my git repo. The engine has become free to download along with other examples. That's why I have now included it, so anyone can download my game and in just a few steps, have it up and running to play with.
+and I didn't want to include it in my git repo. The engine has become free to download along with other examples. That's why I have now included it, so anyone can download my game and in just a few steps have it up and running to play with.
 
 If you are interested in learning more about ImpactJS, Jesse Freeman wrote a great book called 
 HTML5 Games with ImpactJS.
