@@ -32,7 +32,7 @@ You can use either PHP or Python to run the web server.
 cd FallingClyde
 
 ### PHP 
-php -S localhost:8888 (this will create a web server to run the game)
+php -S localhost:8888
 
 ### Python
 python3 -m http.server 8888
