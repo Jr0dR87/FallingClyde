@@ -20,6 +20,10 @@ If you are interested in learning more about ImpactJS, Jesse Freeman wrote a gre
 
 If you wish to download ImpactJS and the Level Editor Weltmeister and the demo examples, visit [Imapact JS](https://impactjs.com/download).
 
+# Just want to play the game?!
+Here is the link to play the game on Itch.io. Only plays on Modern Desktop Browsers.
+[Falling Clyde](https://jarrodrizor.itch.io/falling-clyde)
+
 ========================================================================================
 
 # Installation and Running
