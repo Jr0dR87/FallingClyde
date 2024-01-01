@@ -1,7 +1,7 @@
 Falling Clyde
 ============
 
-By Jarrod Rizor
+By Jr0dR87
 
 ============
 
@@ -22,14 +22,14 @@ If you wish to download ImpactJS and the Level Editor Weltmeister and the demo e
 
 # Just want to play the game?!
 Here is the link to play the game on Itch.io. Only plays on Modern Desktop Browsers.
-[Falling Clyde](https://jarrodrizor.itch.io/falling-clyde)
+[Falling Clyde](https://jr0dr87.itch.io/falling-clyde)
 
 ========================================================================================
 
 # Installation and Running
 (You need a web server to run the game)
 
-git clone https://github.com/JarrodRizor/FallingClyde.git
+git clone https://github.com/Jr0dR87/FallingClyde
 
 You can use either PHP or Python to run the web server.
 
@@ -46,4 +46,4 @@ open browser and naviagte to http://localhost:8888
 Enjoy!
 
 Message me if you have any questions.
-[JarrodR87](https://twitter.com/JarrodR87)
+[Jr0dR87](https://twitter.com/Jr0dR87)
